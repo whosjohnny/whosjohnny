@@ -3,6 +3,18 @@
 - 👀 I’m interested in Go programming language (GoLang), cryptocurrency / Go-Ethererum, anything A.G.I. and reinforcement learning such as Leela Chess Zero and Stockfish NNUE
 - 🌱 I’m currently learning GoLang, looking through Leela Chess Zero's Server and Client app written in Golang
 - 💞️ I’m looking to collaborate on Leela Chess Zero, Go-Ethererum, Beyond All Reasons and Kubernetes
+- 🌱
+- 🌱 https://training.lczero.org A.I. chess GPU donation under "AlitaBattleAngel"
+- 🌱
+- 🌱 note: due to server assigned complexity assignment, rate of games varies day to day
+- 🌱
+- 🌱 laptop1: Alienware 32gb rtx2080 - 43k to 44k games per day
+- 🌱 laptop2: Lenovo Y720 32gb gtx1060 - 6.7k to 7.0k games per day
+- 🌱 laptop3: MSI GL63 16gb gtx1050Ti - 4.1k games per day
+- 🌱 laptop4: Asus ROG 32gb gtx860m - 2.9k games per day
+- 🌱 laptop5: Asus ROG 16gb gtx860m - currently idle
+- 🌱 server1: Dual Xeon E5-2667 V4 16C/32T 3.7Ghz gtx1060 - 6.7k to 7.4k games per day
+- 🌱
 - 📫 How to reach me, whosjohnny@gmail.com or john@askdrten.com.
 
 <!---
