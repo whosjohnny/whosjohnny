@@ -8,11 +8,11 @@
 - 🌱
 - 🌱 note: due to server assigned complexity assignment, rate of games varies day to day
 - 🌱
-- 🌱 laptop1: Alienware 32gb rtx2080 - 43k to 44k games per day
-- 🌱 laptop2: Lenovo Y720 32gb gtx1060 - 6.7k to 7.0k games per day
-- 🌱 laptop3: MSI GL63 16gb gtx1050Ti - 4.1k games per day
-- 🌱 laptop4: Asus ROG 32gb gtx860m - 2.9k games per day
-- 🌱 laptop5: Asus ROG 16gb gtx860m - currently idle
+- 🌱 laptop1: Alienware 17" 3840x2160 32gb rtx2080 - 43k to 44k games per day
+- 🌱 laptop2: Lenovo 15" 3840x2160 Y720 32gb gtx1060 - 6.7k to 7.0k games per day
+- 🌱 laptop3: MSI GL63 15" 1920x1080 16gb gtx1050Ti - 4.1k games per day
+- 🌱 laptop4: Asus ROG G750 17" 1920x1080 32gb gtx860m - 2.9k games per day
+- 🌱 laptop5: Asus ROG G750 17" 1920x1080 16gb gtx860m - currently idle
 - 🌱 server1: Dual Xeon E5-2667 V4 16C/32T 3.7Ghz gtx1060 - 6.7k to 7.4k games per day
 - 🌱
 - 📫 How to reach me, whosjohnny@gmail.com or john@askdrten.com.
